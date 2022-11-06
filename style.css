@@ -40,11 +40,11 @@ body * {
 #app {
   width: fit-content;
   margin: auto;
-  padding: 52px 52px;
+  padding-top: 52px;
 }
 
 header {
-  margin: 63px;
+  padding-bottom: 63px;
   text-align: center;
 }
 header .iconColors {
