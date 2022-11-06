@@ -101,8 +101,6 @@ header .iconColors img {
   display: flex;
   flex-direction: column;
   gap: 24px;
-
-  width: 270px;
 }
 
 .card ul li {
@@ -157,5 +155,9 @@ header .iconColors img {
     max-width: 670px;
     flex-direction: row;
     flex-wrap: wrap;
+  }
+
+  .card ul {
+    width: 270px;
   }
 }
